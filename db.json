@@ -1,134 +1,242 @@
 {
-    "projects": [
+    "home": {
+        "images": [
+            {
+                "src": "/img/home/banner-1.jpg",
+                "alt": "Banner 1"
+            },
+            {
+                "src": "/img/home/banner-2.jpg",
+                "alt": "Banner 2"
+            },
+            {
+                "src": "/img/home/banner-3.jpg",
+                "alt": "Banner 3"
+            },
+            {
+                "src": "/img/home/banner-4.jpg",
+                "alt": "Banner 4"
+            },
+            {
+                "src": "/img/home/banner-5.jpg",
+                "alt": "Banner 5"
+            }
+        ]
+    },
+    "project_list": {
+        "categories": [
+            "all",
+            "hospitality",
+            "healthcare",
+            "residential",
+            "landscape"
+        ],
+        "projects": [
+            {
+                "src": "/img/projects/p1.jpg",
+                "alt": "Project 01",
+                "name": "project-01",
+                "category": "healthcare"
+            },
+            {
+                "src": "/img/projects/p2.jpg",
+                "alt": "Project 02",
+                "name": "project-02",
+                "category": "hospitality"
+            },
+            {
+                "src": "/img/projects/p3.jpg",
+                "alt": "Project 03",
+                "name": "project-03",
+                "category": "landscape"
+            },
+            {
+                "src": "/img/projects/p4.jpg",
+                "alt": "Project 04",
+                "name": "project-04",
+                "category": "healthcare"
+            },
+            {
+                "src": "/img/projects/p5.jpg",
+                "alt": "Project 05",
+                "name": "project-05",
+                "category": "hospitality"
+            },
+            {
+                "src": "/img/projects/p6.jpg",
+                "alt": "Project 06",
+                "name": "project-06",
+                "category": "residential"
+            },
+            {
+                "src": "/img/projects/p7.jpg",
+                "alt": "Project 07",
+                "name": "project-07",
+                "category": "healthcare"
+            },
+            {
+                "src": "/img/projects/p8.jpg",
+                "alt": "Project 08",
+                "name": "project-08",
+                "category": "landscape"
+            },
+            {
+                "src": "/img/projects/p9.jpg",
+                "alt": "Project 09",
+                "name": "project-09",
+                "category": "hospitality"
+            },
+            {
+                "src": "/img/projects/p10.jpg",
+                "alt": "Project 10",
+                "name": "project-10",
+                "category": "landscape"
+            },
+            {
+                "src": "/img/projects/p11.jpg",
+                "alt": "Project 11",
+                "name": "project-11",
+                "category": "residential"
+            },
+            {
+                "src": "/img/projects/p12.jpg",
+                "alt": "Project 12",
+                "name": "project-12",
+                "category": "healthcare"
+            }
+        ]
+    },
+    "project_details": [
         {
             "id": 1,
             "name": "APEX Hospital",
             "client": "Dr. Vrajesh Shah",
             "no_of_beds": 50,
-            "project_area": "10,000 sqft.",
-            "status": "completed",
-            "description": "A 50 bed hospital brownfield building, with X-Ray, Cath Lab, 2\nOR's, and Inpatient beds is planned in an existing building\nrecently constructed. The core and shell for the structure was\nready. The medical planning and interior design of the same was\nundertaken by EverEarth architects in collaboration with\nDesign3.14.",
-            "details": [
+            "area": "10,000 sqft.",
+            "status": "Completed",
+            "description": "A 50 bed hospital brownfield building, with X-Ray, Cath Lab, 2\nOR's, and Inpatient beds is planned in an existing building\nrecently constructed. The core and shell for the structure was\nready. The medical planning and interior design of the same was\nundertaken by us in collaboration with\nDesign3.14",
+            "images": [
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114637?cid=4962A795B741D353&resId=4962A795B741D353!114637&authkey=!ABMix7hlfIH9K2w&ithint=photo&e=6GN1tO",
-                    "alt": "Banner 1"
+                    "src": "/img/projects/p1/p1_01.jpg",
+                    "alt": "Project 01 - 01"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114641?cid=4962A795B741D353&resId=4962A795B741D353!114641&authkey=!APwbSzk0oAdzRTk&ithint=photo&e=63mid7",
-                    "alt": "Banner 2"
+                    "src": "/img/projects/p1/p1_02.jpg",
+                    "alt": "Project 01 - 02"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114640?cid=4962A795B741D353&resId=4962A795B741D353!114640&authkey=!AAqXGP9SjNkji3I&ithint=photo&e=80rWcX",
-                    "alt": "Banner 3"
+                    "src": "/img/projects/p1/p1_03.jpg",
+                    "alt": "Project 01 - 03"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114639?cid=4962A795B741D353&resId=4962A795B741D353!114639&authkey=!AGYGaCHIlbam9pQ&ithint=photo&e=r7kKK9",
-                    "alt": "Banner 4"
+                    "src": "/img/projects/p1/p1_04.jpg",
+                    "alt": "Project 01 - 04"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114642?cid=4962A795B741D353&resId=4962A795B741D353!114642&authkey=!AHqrzGTdZlCrlIk&ithint=photo&e=J8gnEC",
-                    "alt": "Banner 5"
+                    "src": "/img/projects/p1/p1_05.jpg",
+                    "alt": "Project 01 - 05"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114643?cid=4962A795B741D353&resId=4962A795B741D353!114643&authkey=!AArvoRFcxGJZC0M&ithint=photo&e=JIqmXW",
-                    "alt": "Banner 6"
+                    "src": "/img/projects/p1/p1_06.jpg",
+                    "alt": "Project 01 - 06"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114644?cid=4962A795B741D353&resId=4962A795B741D353!114644&authkey=!AHABdJ7HPQkLJIM&ithint=photo&e=3QlZqN",
-                    "alt": "Banner 7"
+                    "src": "/img/projects/p1/p1_07.jpg",
+                    "alt": "Project 01 - 07"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114645?cid=4962A795B741D353&resId=4962A795B741D353!114645&authkey=!ANfpYBFcViFiZlw&ithint=photo&e=2v52KW",
-                    "alt": "Banner 8"
+                    "src": "/img/projects/p1/p1_08.jpg",
+                    "alt": "Project 01 - 08"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114646?cid=4962A795B741D353&resId=4962A795B741D353!114646&authkey=!AHeVnyurG-ZKcQA&ithint=photo&e=QUvVzc",
-                    "alt": "Banner 9"
+                    "src": "/img/projects/p1/p1_09.jpg",
+                    "alt": "Project 01 - 09"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114647?cid=4962A795B741D353&resId=4962A795B741D353!114647&authkey=!ACE5VQaS0-3AhP4&ithint=photo&e=j2sfQH",
-                    "alt": "Banner 10"
+                    "src": "/img/projects/p1/p1_10.jpg",
+                    "alt": "Project 01 - 10"
                 },
                 {
-                    "src": "https://photos.onedrive.com/share/4962A795B741D353!114648?cid=4962A795B741D353&resId=4962A795B741D353!114648&authkey=!AKEKRY67dhfJ5sc&ithint=photo&e=LWO4m2",
-                    "alt": "Banner 11"
+                    "src": "/img/projects/p1/p1_11.jpg",
+                    "alt": "Project 01 - 11"
                 }
             ]
         },
         {
             "id": 2,
             "name": "Ortho Relief Hospital",
-            "client": "Dr. Vrajesh Shah",
+            "client": "Dr. Sanjya Aryamane",
             "no_of_beds": 50,
             "project_area": "10,000 sqft.",
-            "status": "completed",
-            "description": "A 50 bed hospital brownfield building, with X-Ray, Cath Lab, 2\nOR's, and Inpatient beds is planned in an existing building\nrecently constructed. The core and shell for the structure was\nready. The medical planning and interior design of the same was\nundertaken by EverEarth architects in collaboration with\nDesign3.14.",
-            "details": [
+            "status": "Completed",
+            "description": "A 50 bed hospital brownfield building, with X-Ray, Cath Lab, 2\nOR's, and Inpatient beds is planned in an existing building\nrecently constructed. The core and shell for the structure was\nready. The medical planning and interior design of the same was\nundertaken by us in collaboration with\nDesign3.14",
+            "images": [
                 {
-                    "src": "banner_1",
-                    "alt": "Banner 1"
+                    "src": "/img/projects/p2/p2_01.png",
+                    "alt": "Project 02 - 01"
                 },
                 {
-                    "src": "banner_2",
-                    "alt": "Banner 2"
+                    "src": "/img/projects/p2/p2_02.png",
+                    "alt": "Project 02 - 02"
                 },
                 {
-                    "src": "banner_3",
-                    "alt": "Banner 3"
+                    "src": "/img/projects/p2/p2_03.png",
+                    "alt": "Project 02 - 03"
                 },
                 {
-                    "src": "banner_4",
-                    "alt": "Banner 4"
+                    "src": "/img/projects/p2/p2_04.png",
+                    "alt": "Project 02 - 04"
                 },
                 {
-                    "src": "banner_5",
-                    "alt": "Banner 5"
+                    "src": "/img/projects/p2/p2_05.png",
+                    "alt": "Project 02 - 05"
                 },
                 {
-                    "src": "banner_6",
-                    "alt": "Banner 6"
+                    "src": "/img/projects/p2/p2_06.png",
+                    "alt": "Project 02 - 06"
                 },
                 {
-                    "src": "banner_7",
-                    "alt": "Banner 7"
+                    "src": "/img/projects/p2/p2_07.png",
+                    "alt": "Project 02 - 07"
                 },
                 {
-                    "src": "banner_8",
-                    "alt": "Banner 8"
+                    "src": "/img/projects/p2/p2_08.png",
+                    "alt": "Project 02 - 08"
                 },
                 {
-                    "src": "banner_9",
-                    "alt": "Banner 9"
+                    "src": "/img/projects/p2/p2_09.png",
+                    "alt": "Project 02 - 09"
                 },
                 {
-                    "src": "banner_10",
-                    "alt": "Banner 10"
+                    "src": "/img/projects/p2/p2_10.png",
+                    "alt": "Project 02 - 10"
                 },
                 {
-                    "src": "banner_11",
-                    "alt": "Banner 11"
+                    "src": "/img/projects/p2/p2_11.png",
+                    "alt": "Project 02 - 11"
                 },
                 {
-                    "src": "banner_12",
-                    "alt": "Banner 12"
+                    "src": "/img/projects/p2/p2_12.png",
+                    "alt": "Project 02 - 12"
                 },
                 {
-                    "src": "banner_13",
-                    "alt": "Banner 13"
+                    "src": "/img/projects/p2/p2_13.png",
+                    "alt": "Project 02 - 13"
                 },
                 {
-                    "src": "banner_14",
-                    "alt": "Banner 14"
+                    "src": "/img/projects/p2/p2_14.png",
+                    "alt": "Project 02 - 14"
                 },
                 {
-                    "src": "banner_15",
-                    "alt": "Banner 15"
+                    "src": "/img/projects/p2/p2_15.png",
+                    "alt": "Project 02 - 15"
                 },
                 {
-                    "src": "banner_16",
-                    "alt": "Banner 16"
+                    "src": "/img/projects/p2/p2_16.png",
+                    "alt": "Project 02 - 16"
                 }
             ]
         }
-    ]
+    ],
+    "general": {}
 }
