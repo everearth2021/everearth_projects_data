@@ -110,11 +110,12 @@
         {
             "id": 1,
             "name": "APEX Hospital",
+            "location": "Kandivali (East), Mumbai",
             "client": "Dr. Vrajesh Shah",
             "no_of_beds": 50,
             "area": "10,000 sqft.",
             "status": "Completed",
-            "description": "A 50 bed hospital brownfield building, with X-Ray, Cath Lab, 2\nOR's, and Inpatient beds is planned in an existing building\nrecently constructed. The core and shell for the structure was\nready. The medical planning and interior design of the same was\nundertaken by us in collaboration with\nDesign3.14",
+            "description": "A 50 bed multi-speciality hospital brownfield building, with X-Ray,\nCathLab, 2 OR's, and Inpatient beds is planned\nin an existing building. The core and\nshell for the structure was ready. The\nmedical planning and interior design of the same\nwas undertaken by us in collaboration with Design3.14",
             "images": [
                 {
                     "src": "/img/projects/p1/p1_01.jpg",
@@ -165,75 +166,60 @@
         {
             "id": 2,
             "name": "Ortho Relief Hospital",
-            "client": "Dr. Sangtani",
+            "location": "Dhantoli, Nagpur",
+            "client": "Dr. H. Sangtani",
             "no_of_beds": 50,
-            "project_area": "10,000 sqft.",
+            "project_area": "28,000 sqft.",
             "status": "Completed",
-            "description": "A 50 bed hospital brownfield building, with X-Ray, Cath Lab, 2\nOR's, and Inpatient beds is planned in an existing building\nrecently constructed. The core and shell for the structure was\nready. The medical planning and interior design of the same was\nundertaken by us in collaboration with\nDesign3.14",
+            "description": "A 50 bed orthopaedic hospital brownfield building,\nwith CT Scan, X-Ray, Cath Lab, 2 OR's,\nand Inpatient beds is planned in a\nnewly constructed building. The core and\nshell for the structure  was ready.\nThe scope of the project was medical\nplanning and interior design",
             "images": [
                 {
-                    "src": "/img/projects/p2/p2_01.png",
+                    "src": "/img/projects/p2/p2_01.jpg",
                     "alt": "Project 02 - 01"
                 },
                 {
-                    "src": "/img/projects/p2/p2_02.png",
+                    "src": "/img/projects/p2/p2_02.jpg",
                     "alt": "Project 02 - 02"
                 },
                 {
-                    "src": "/img/projects/p2/p2_03.png",
+                    "src": "/img/projects/p2/p2_03.jpg",
                     "alt": "Project 02 - 03"
                 },
                 {
-                    "src": "/img/projects/p2/p2_04.png",
+                    "src": "/img/projects/p2/p2_04.jpg",
                     "alt": "Project 02 - 04"
                 },
                 {
-                    "src": "/img/projects/p2/p2_05.png",
+                    "src": "/img/projects/p2/p2_05.jpg",
                     "alt": "Project 02 - 05"
                 },
                 {
-                    "src": "/img/projects/p2/p2_06.png",
+                    "src": "/img/projects/p2/p2_06.jpg",
                     "alt": "Project 02 - 06"
                 },
                 {
-                    "src": "/img/projects/p2/p2_07.png",
+                    "src": "/img/projects/p2/p2_07.jpg",
                     "alt": "Project 02 - 07"
                 },
                 {
-                    "src": "/img/projects/p2/p2_08.png",
+                    "src": "/img/projects/p2/p2_08.jpg",
                     "alt": "Project 02 - 08"
                 },
                 {
-                    "src": "/img/projects/p2/p2_09.png",
+                    "src": "/img/projects/p2/p2_09.jpg",
                     "alt": "Project 02 - 09"
                 },
                 {
-                    "src": "/img/projects/p2/p2_10.png",
+                    "src": "/img/projects/p2/p2_10.jpg",
                     "alt": "Project 02 - 10"
                 },
                 {
-                    "src": "/img/projects/p2/p2_11.png",
+                    "src": "/img/projects/p2/p2_11.jpg",
                     "alt": "Project 02 - 11"
                 },
                 {
-                    "src": "/img/projects/p2/p2_12.png",
+                    "src": "/img/projects/p2/p2_12.jpg",
                     "alt": "Project 02 - 12"
-                },
-                {
-                    "src": "/img/projects/p2/p2_13.png",
-                    "alt": "Project 02 - 13"
-                },
-                {
-                    "src": "/img/projects/p2/p2_14.png",
-                    "alt": "Project 02 - 14"
-                },
-                {
-                    "src": "/img/projects/p2/p2_15.png",
-                    "alt": "Project 02 - 15"
-                },
-                {
-                    "src": "/img/projects/p2/p2_16.png",
-                    "alt": "Project 02 - 16"
                 }
             ]
         }
