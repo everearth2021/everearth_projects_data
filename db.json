@@ -26,8 +26,8 @@
     "project_list": {
         "categories": [
             "all",
-            "hospitality",
             "healthcare",
+            "hospitality",
             "residential",
             "landscape"
         ],
@@ -42,7 +42,7 @@
                 "src": "/img/projects/p2.jpg",
                 "alt": "Project 02",
                 "name": "project-02",
-                "category": "hospitality"
+                "category": "healthcare"
             },
             {
                 "src": "/img/projects/p3.jpg",
@@ -54,7 +54,7 @@
                 "src": "/img/projects/p4.jpg",
                 "alt": "Project 04",
                 "name": "project-04",
-                "category": "healthcare"
+                "category": "residential"
             },
             {
                 "src": "/img/projects/p5.jpg",
@@ -96,7 +96,7 @@
                 "src": "/img/projects/p11.jpg",
                 "alt": "Project 11",
                 "name": "project-11",
-                "category": "residential"
+                "category": "hospitality"
             },
             {
                 "src": "/img/projects/p12.jpg",
