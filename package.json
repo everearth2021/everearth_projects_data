@@ -11,6 +11,8 @@
     "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",
+        "cron": "^3.1.6",
+        "https": "^1.0.0",
         "json-serve": "^0.1.0",
         "json-server": "^0.17.4"
     }
