@@ -222,6 +222,26 @@
                     "alt": "Project 02 - 12"
                 }
             ]
+        },
+		{
+            "id": 3,
+            "name": "Well Treat Hospital",
+            "location": "Nagpur",
+            "client": "Dr. Rahul Tavare",
+            "no_of_beds": 50,
+            "area": "20,000 sqft.",
+            "status": "Ongoing",
+            "description": "A 50 bed cardiac care greenfield hospital building,\nwith CT Scan, X-Ray, Cath Lab, 2 OR's,\nand Inpatient beds was planned in a\nnewly constructed building.\nThis is a full scope project with architectural\nplanning and interior design.",
+            "images": [
+                {
+                    "src": "/img/projects/p3/p3_01.jpg",
+                    "alt": "Project 03 - 01"
+                },
+                {
+                    "src": "/img/projects/p3/p3_02.jpg",
+                    "alt": "Project 03 - 02"
+                }
+            ]
         }
     ],
     "general": {}
