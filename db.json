@@ -223,7 +223,7 @@
                 }
             ]
         },
-		{
+        {
             "id": 3,
             "name": "Well Treat Hospital",
             "location": "Nagpur",
@@ -231,7 +231,7 @@
             "no_of_beds": 50,
             "area": "20,000 sqft.",
             "status": "Ongoing",
-            "description": "A 50 bed cardiac care greenfield hospital building,\nwith CT Scan, X-Ray, Cath Lab, 2 OR's,\nand Inpatient beds was planned in a\nnewly constructed building.\nThis is a full scope project with architectural\nplanning and interior design.",
+            "description": "A 50 bed cardiac care greenfield hospital building,\nwith CT Scan, X-Ray, Cath Lab, 2 OR's,\nand Inpatient beds was planned in a\nnewly acquired land parcel.\nThis is a full scope project with architectural\nplanning and interior design. Various options\nwith varying facility mix were explored.\nThe exercise involved design options for hospital\non 9000 sqft existing floorplate to designing a\nhospital building on a virgin land, which\nwas finally approved and is now under construction",
             "images": [
                 {
                     "src": "/img/projects/p3/p3_01.jpg",
