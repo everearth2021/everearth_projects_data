@@ -316,6 +316,94 @@
                     "alt": "Project 05 - 04"
                 }
             ]
+        },
+        {
+            "id": 6,
+            "name": "Exquisite Homes",
+            "location": "Lonavala",
+            "client": "Mr. Atish Solanki",
+            "no_of_beds": 0,
+            "area": "65,500 sqft.",
+            "status": "Concept and proposal",
+            "description": "A Scheme of 7 Bungalow Plots was designed on a sloping site admeasuring 3.75 acres with all amenities and infrastructure for the same. A contour study for minimising the cutting and filling and plotting the winding road with minimum ramp slope of 1:10 was done which accessed each plot from the lower and the higher contour. A 2nd scheme of 10 vacation apartments Ground and 1 floor above, is designed on a sloping site with all amenities along with the club house water bodies restaurants along with infrastructure for the same. These 10 apartments are located on a slope of not more than 1:5 and along the natural contour lines. The higher slopes which are non buildable have elevated wooden walkways along natural contour and trees such that it makes the non-accessible more accessible and inviting. The Cottages are designed in response to the natural topography and contours with winding road accessing each of them. Dedicated golf cart service to shuttle people from main parking to their individual cottages",
+            "images": [
+                {
+                    "src": "/img/projects/p6/p6_01.jpg",
+                    "alt": "Project 06 - 01"
+                },
+                {
+                    "src": "/img/projects/p6/p6_02.jpg",
+                    "alt": "Project 06 - 02"
+                },
+                {
+                    "src": "/img/projects/p6/p6_03.jpg",
+                    "alt": "Project 06 - 03"
+                },
+                {
+                    "src": "/img/projects/p6/p6_04.jpg",
+                    "alt": "Project 06 - 04"
+                },
+                {
+                    "src": "/img/projects/p6/p6_05.jpg",
+                    "alt": "Project 06 - 05"
+                },
+                {
+                    "src": "/img/projects/p6/p6_06.jpg",
+                    "alt": "Project 06 - 06"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Nanded Mahal",
+            "location": "Nanded",
+            "client": "Mr. Umrekar",
+            "no_of_beds": 0,
+            "area": "38,000 sqft.",
+            "status": "Ongoing",
+            "description": "The two storied Mahal is designed as a private residence, but eventually will be converted to a resort. The facade is beautifully articulated with Arches, Chattris, Domes and Railings. various levels of these articulations create a pallete of light and shadows and looks very elegant. The scope for this project is design development and construction drawings and is a collaborative venture between us and NG Design Studio",
+            "images": [
+                {
+                    "src": "/img/projects/p7/p7_01.jpg",
+                    "alt": "Project 07 - 01"
+                },
+                {
+                    "src": "/img/projects/p7/p7_02.jpg",
+                    "alt": "Project 07 - 02"
+                },
+                {
+                    "src": "/img/projects/p7/p7_03.jpg",
+                    "alt": "Project 07 - 03"
+                },
+                {
+                    "src": "/img/projects/p7/p7_04.jpg",
+                    "alt": "Project 07 - 04"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Morve Resort",
+            "location": "Morve, Pawana",
+            "client": "Mr. Atish Solanki",
+            "no_of_beds": 0,
+            "area": "60,000 sqft.",
+            "status": "Concept",
+            "description": "A Scheme of 120 keys resort rooms along with Holiday activities and external activities on the sloping sides is planned on the backwaters of Pawana dam. All the cottages are designed to face the valley view overlooking the dam waters. The Reception lounge, fine and fun dining, Holiday activity, open pathways are interconnected with natural and artificial water bodies, chowks, kunds and green spaces designed according to natural contour. Minimum area is used for development and the remaining land is left out in wilderness where tree houses, walkways and meditation areas are planned",
+            "images": [
+                {
+                    "src": "/img/projects/p8/p8_01.jpg",
+                    "alt": "Project 08 - 01"
+                },
+                {
+                    "src": "/img/projects/p8/p8_02.jpg",
+                    "alt": "Project 08 - 02"
+                },
+                {
+                    "src": "/img/projects/p8/p8_03.jpg",
+                    "alt": "Project 08 - 03"
+                }
+            ]
         }
     ],
     "general": {}
