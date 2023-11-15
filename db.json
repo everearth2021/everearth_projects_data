@@ -54,55 +54,61 @@
                 "src": "/img/projects/p4.jpg",
                 "alt": "Project 04",
                 "name": "project-04",
-                "category": "residential"
+                "category": "healthcare"
             },
             {
                 "src": "/img/projects/p5.jpg",
                 "alt": "Project 05",
                 "name": "project-05",
-                "category": "hospitality"
+                "category": "healthcare"
             },
             {
                 "src": "/img/projects/p6.jpg",
                 "alt": "Project 06",
                 "name": "project-06",
-                "category": "residential"
+                "category": "hospitality"
             },
             {
                 "src": "/img/projects/p7.jpg",
                 "alt": "Project 07",
                 "name": "project-07",
-                "category": "healthcare"
+                "category": "hospitality"
             },
             {
                 "src": "/img/projects/p8.jpg",
                 "alt": "Project 08",
                 "name": "project-08",
-                "category": "landscape"
+                "category": "hospitality"
             },
             {
                 "src": "/img/projects/p9.jpg",
                 "alt": "Project 09",
                 "name": "project-09",
-                "category": "hospitality"
+                "category": "residential"
             },
             {
                 "src": "/img/projects/p10.jpg",
                 "alt": "Project 10",
                 "name": "project-10",
-                "category": "landscape"
+                "category": "residential"
             },
             {
                 "src": "/img/projects/p11.jpg",
                 "alt": "Project 11",
                 "name": "project-11",
-                "category": "hospitality"
+                "category": "residential"
             },
             {
                 "src": "/img/projects/p12.jpg",
                 "alt": "Project 12",
                 "name": "project-12",
-                "category": "healthcare"
+                "category": "residential"
+            },
+            {
+                "src": "/img/projects/p13.jpg",
+                "alt": "Project 13",
+                "name": "project-13",
+                "category": "landscape"
             }
         ]
     },
@@ -240,6 +246,74 @@
                 {
                     "src": "/img/projects/p3/p3_02.jpg",
                     "alt": "Project 03 - 02"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Accra Medical Centre",
+            "location": "Haatso, Ghana",
+            "client": "Interdisciplinary team of Doctors and Health officials (The Ghana Government)",
+            "no_of_beds": 150,
+            "area": "75,000 sqft.",
+            "status": "Proposal",
+            "description": "A Multispeciality Hospital designed in\nGhana, West Africa, to cater to the masses\nand the elite. The facility comprises of\nspecialities like Mother & Child, IVF, Cardiac wing,\nAmbulatory care services, Emergency and diagnostics wing.\nA second phase comprising a cancer speciality will\nbe added after the phase 1 is in\noperations. A 30 bed ICU with isolation\nrooms along with wards, twin sharing and\nsingle occupancy rooms are planned to meet the need\nThe medical planning and interior design of the same\nwas undertaken by us in collaboration with RY Group",
+            "images": [
+                {
+                    "src": "/img/projects/p4/p4_01.jpg",
+                    "alt": "Project 04 - 01"
+                },
+                {
+                    "src": "/img/projects/p4/p4_02.jpg",
+                    "alt": "Project 04 - 02"
+                },
+                {
+                    "src": "/img/projects/p4/p4_03.jpg",
+                    "alt": "Project 04 - 03"
+                },
+                {
+                    "src": "/img/projects/p4/p4_04.jpg",
+                    "alt": "Project 04 - 04"
+                },
+                {
+                    "src": "/img/projects/p4/p4_05.jpg",
+                    "alt": "Project 04 - 05"
+                },
+                {
+                    "src": "/img/projects/p4/p4_06.jpg",
+                    "alt": "Project 04 - 06"
+                },
+                {
+                    "src": "/img/projects/p4/p4_07.jpg",
+                    "alt": "Project 04 - 07"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Pathology Laboratory",
+            "location": "Yaounde, Cameroon",
+            "client": "Dr. Christian",
+            "no_of_beds": 0,
+            "area": "37,500 sqft.",
+            "status": "Design Development",
+            "description": "A Pathology Lab in Yaounde, the Capital city\nof Cameroon swith a cathment area of\nneighbouring villages, is designed with consultation rooms,\nspecimen collection rooms, Biochemistry, Immunology, Haematology,\nMicrobiology, Reproductive Biology, Molecular labs etc.\nA set of consultation rooms and a\nresidential facility (Dormitory) 15 studio apartments is\nplanned in campus for the benefit of people\ntravelling from nearby villages. A convenience\nshopping centre to cater to the masses\nas well as people using the facility\nis designed in the campus. The architectural\nplanning and interior design of the same was\nundertaken by us in collaboration with\nVolks Vita Pvt. Ltd.",
+            "images": [
+                {
+                    "src": "/img/projects/p5/p5_01.jpg",
+                    "alt": "Project 05 - 01"
+                },
+                {
+                    "src": "/img/projects/p5/p5_02.jpg",
+                    "alt": "Project 05 - 02"
+                },
+                {
+                    "src": "/img/projects/p5/p5_03.jpg",
+                    "alt": "Project 05 - 03"
+                },
+                {
+                    "src": "/img/projects/p5/p5_04.jpg",
+                    "alt": "Project 05 - 04"
                 }
             ]
         }
